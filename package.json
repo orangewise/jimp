@@ -24,7 +24,7 @@
   "author": "Oliver Moran <oliver.moran@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bmp-js": "0.0.2",
+    "bmp-js": "0.0.3",
     "commander": "^2.8.1",
     "file-type": "^3.1.0",
     "jpeg-js": "^0.2.0",
